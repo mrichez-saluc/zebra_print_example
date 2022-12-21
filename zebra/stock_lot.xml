@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE labels SYSTEM "label.dtd">
+<labels _FORMAT="STOCKLOT.ZPL" _QUANTITY="1" _PRINTERNAME="Printer 1" _JOBNAME="LBL101">
+	{% for lot in records %}
+	<label>
+		<variable name="no_lot">{{ lot.number }}</variable>
+		<variable name="code_barre">{{ lot.number }}</variable>
+		<variable name="code_article">{{ lot.product.code }}</variable>
+		<variable name="nopalette">PAL.: {{ lot.id_supplier_pallet}}</variable>
+	</label>
+	{% endfor %}
+</labels>

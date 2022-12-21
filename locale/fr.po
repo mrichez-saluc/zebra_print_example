@@ -1,0 +1,142 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"X-Generator: Poedit 2.2.1\n"
+
+msgctxt "field:party.party,ingres_customer_code:"
+msgid "Ingres Customer Code"
+msgstr "Code Client Ingres"
+
+msgctxt "field:party.party,ingres_supplier_code:"
+msgid "Ingres Supplier Code"
+msgstr "Code Fournisseur Ingres"
+
+msgctxt "field:stock.configuration,stock_lot_sequence:"
+msgid "Stock Lot Sequence"
+msgstr "Séquence de numéro de lot"
+
+msgctxt "field:stock.configuration.sequence,stock_lot_sequence:"
+msgid "Stock Lot Sequence"
+msgstr "Séquence de numéro de lot"
+
+msgctxt "field:stock.lot,barcode:"
+msgid "Barcode"
+msgstr "Code barre"
+
+msgctxt "field:stock.lot,id_preciball_po:"
+msgid "Id Preciball PO"
+msgstr "Id BC Preciball"
+
+msgctxt "field:stock.lot,id_supplier_packing:"
+msgid "Id Supplier Packing"
+msgstr "Id Packing Fournisseur"
+
+msgctxt "field:stock.lot,id_supplier_pallet:"
+msgid "Id Supplier Pallet"
+msgstr "Id Palette Fournisseur"
+
+#, fuzzy
+msgctxt "field:stock.lot.quantity.by.location,create_date:"
+msgid "Create Date"
+msgstr "Date de création"
+
+#, fuzzy
+msgctxt "field:stock.lot.quantity.by.location,create_uid:"
+msgid "Create User"
+msgstr "Créé par"
+
+#, fuzzy
+msgctxt "field:stock.lot.quantity.by.location,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:stock.lot.quantity.by.location,id_preciball_po:"
+msgid "Id Preciball PO"
+msgstr "Id BC Preciball"
+
+#, fuzzy
+msgctxt "field:stock.lot.quantity.by.location,location:"
+msgid "Location"
+msgstr "Emplacement"
+
+#, fuzzy
+msgctxt "field:stock.lot.quantity.by.location,lot:"
+msgid "Lot"
+msgstr "Lot"
+
+#, fuzzy
+msgctxt "field:stock.lot.quantity.by.location,product:"
+msgid "Product"
+msgstr "Produit"
+
+#, fuzzy
+msgctxt "field:stock.lot.quantity.by.location,quantity:"
+msgid "Quantity"
+msgstr "Quantité"
+
+#, fuzzy
+msgctxt "field:stock.lot.quantity.by.location,rec_name:"
+msgid "Record Name"
+msgstr "Nom de l'enregistrement"
+
+#, fuzzy
+msgctxt "field:stock.lot.quantity.by.location,write_date:"
+msgid "Write Date"
+msgstr "Date de mise à jour"
+
+#, fuzzy
+msgctxt "field:stock.lot.quantity.by.location,write_uid:"
+msgid "Write User"
+msgstr "Mis à jour par"
+
+msgctxt "model:ir.action,name:act_location_lot_quantity_list"
+msgid "Locations List Lot Quantity"
+msgstr "Liste des quantités de lot par emplacement"
+
+msgctxt "model:ir.action,name:act_location_lot_quantity_list2"
+msgid "Locations List Lot Quantity"
+msgstr "Liste des quantités de lot par emplacement"
+
+msgctxt "model:ir.action,name:act_lot_quantity_by_location"
+msgid "Lot Quantity By Location"
+msgstr "Quantité de Lot par Emplacement"
+
+#, fuzzy
+msgctxt "model:ir.action,name:report_label"
+msgid "Labels"
+msgstr "Étiquettes"
+
+msgctxt "model:ir.action,name:report_label_zebra"
+msgid "Zebra Label"
+msgstr "Etiquette Zebra"
+
+#, fuzzy
+msgctxt "model:ir.sequence,name:sequence_stock_lot"
+msgid "Stock Lot"
+msgstr "Lot"
+
+#, fuzzy
+msgctxt "model:ir.sequence.type,name:sequence_type_stock_lot"
+msgid "Stock Lot"
+msgstr "Lot"
+
+msgctxt "model:ir.ui.menu,name:menu_location_form2"
+msgid "Locations List"
+msgstr "Liste des Emplacements"
+
+msgctxt "model:stock.lot.quantity.by.location,name:"
+msgid "Lot Quantity By Location"
+msgstr "Quantité de Lot par Emplacement"
+
+msgctxt "selection:res.user.application,application:"
+msgid "Preciball Stock"
+msgstr "Stock Preciball"
